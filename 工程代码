@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Supine_Lee's Space</title>
+    <!-- 最新版本的 Bootstrap 核心 CSS 文件 -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+
+    <!-- 可选的 Bootstrap 主题文件（一般不用引入） -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap-theme.min.css" integrity="sha384-6pzBo3FDv/PJ8r2KRkGHifhEocL+1X2rVCTTkUfGk7/0pbek5mMa1upzvWbrUbOZ" crossorigin="anonymous">
+
+    <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
+</head>
+<body>
+<body background="./image/background.jpg" style=" background-repeat:no-repeat ;background-size:100% 100%;
+background-attachment: fixed;"></body>
+<div class="row">
+    <div class="col-md-4">
+        <br/>
+        <p style="text-align: center;">
+            <img src="./image/校标.png" width="258" />
+        </p>
+        <br/>
+        <br/>
+        <br/>
+        <p style="text-align: center;">
+            <img src="./image/Supine.jpg" width="258" />
+        </p>
+        <br/>
+        <p style="font-family:楷体;color:red;font-size:30px;text-align: center;">生活不止眼前的苟且<br/>还有诗和远方</p>
+        <p style="font-family:黑体;font-size:20px;text-align: center;">
+            About me: <br/> 一个每天被大佬摩擦开始逐渐躺平的懒狗<br/>每天处于摆与不摆的叠加态<br/>但间歇性觉得自己还能抢救的大二仔
+        </p>
+    </div>
+    <div class="col-md-8">
+        <br/>
+        <br/>
+        <p style="font-family:微软雅黑;font-size:25px;text-align:center;">
+            A diagram of the relationships between computer courses：
+        <p/>
+        <p style="text-align: center;">
+            <img src="./image/计算机课程体系.jpg" width="800" />
+        </p>
+    </div>
+</div>
+<br/>
+<br/>
+<br/>
+<div class="row">
+    <div class="col-md-1"></div>
+    <div class="col-md-4">
+        <p style="font-family:微软雅黑;font-size:25px;text-align:left;">
+            Some reference materials available for CSer:<br/>
+        <p/>
+        <p style="font-family:微软雅黑;font-size:20px;text-align:left;">
+            <a href="./Sourse/LaTeX_Docs_2014.rar">LeTeX</a><br/>
+            <a href="./Sourse/程序设计基础.zip">程序设计基础</a><br/>
+            <a href="./Sourse/《概率论与数理统计》浙大第四版.zip">概率统计与随机过程</a><br/>
+            <a href="./Sourse/DS.zip">数据结构与算法</a><br/>
+            <a href="./Sourse/数据库系统概论（第5版）%20by%20王珊%20萨师煊%20(z-lib.org).pdf">数据库系统</a><br/>
+            <a href="./Sourse/信号与系统.zip">信号与系统</a><br/>
+            <a href="./Sourse/算法设计与问题求解课程实验及参考代码汇总.zip">算法设计与问题求解</a><br/>
+            <a href="./Sourse/模拟电子技术.zip">模拟电子技术</a><br/>
+            <a href="./Sourse/深度学习.pdf">深度学习</a><br/>
+            <a href="./Sourse/数学建模.zip">数学建模</a><br/>
+            <a href="./Sourse/C&C++.zip">C&C++</a><br/>
+            <a href="./Sourse/Java.zip">Java</a><br/>
+            <a href="./Sourse/Linux.zip">Linux</a><br/>
+            <a href="./Sourse/Python.zip">Python</a><br/>
+            <a href="./Sourse/操作系统.zip">操作系统</a><br/>
+            <a href="./Sourse/计算机网络.zip">计算机网络</a><br/>
+            <a href="./Sourse/计算机系统.zip">计算机系统</a><br/>
+        <p/>
+    </div>
+    <div class="col-md-6">
+        <p style="font-family:微软雅黑;font-size:25px;text-align:center;">
+            My understanding of computer science:
+        <p/>
+        <p style="font-family:楷体;font-size:20px;text-align:left;">
+          从1946年世界上第一台电子计算机ENIAC诞生之日算起，计算机发展也才短短几十年，但如今它已经深刻的改变了我们社会生活的方方面面。
+            可以说，计算机是当今世界上最重要的工具，因此，计算机互联网行业在如今这个信息技术高速发展的时代称得上是最热门的行业之一。
+        我第一次接触计算机是在小学，当时学校开设了微机课，每周最快乐的时光就是和同学用机房的电脑打红警或者别的游戏，当时仅仅把它当成是一个大一点的游戏机，对它的“威力”基本上一无所知。
+        后来随着年龄的增长，对网络时代所带来的方便和快捷并没有什么特别的体会，从来没有对于这方便快捷的背后有着什么样的原理感到过好奇与疑惑。
+            我人生中第一次“真正”的与计算机接触是在高一的时候，当我第一次在电脑中输出那句经典的“Hello,World”,我第一次觉得我可以真正的掌握这台机器。
+            但由于高中的学业压力，并没有继续在这条路上走下去。直到高考结束后，选择了计算机作为自己的第一志愿，可惜最终并没有如愿录取，而是被调剂到了别的专业。
+        但心中的那点火一直没有熄灭。经过大一一年的努力终于成功上岸，转到了计算机专业。这就是我与计算机接触的故事。<br/>
+        在我看来，计算机科学与技术是一门实践性很强学科，是理论与实践完美结合的学科。由于计算机的特点，学习计算机必须有着很强的逻辑思维能力，同时也要下很大的功夫。
+        要掌握各种繁多难懂的算法和拥有较强的代码能力不是一件容易的事情。计算机相关的理论也要花费很多时间来消化。当然，开放协作也是互联网时代的精神，拥有出色的团队合作能力能使我们在这条路上走得更加容易，也能够走得更远。
+        现在计算机领域的发展趋势多样，包括人工智能、机器学习、大数据分析等都是我很感兴趣的领域，但由于还没有机会去接触这些前沿领域，我将在以后努力去多多尝试各个领域，找到最适合自己的地方去实现自己的价值。
+        <p/>
+    </div>
+    <br/>
+    <br/>
+    <div class="col-md-6">
+        <p style="text-align: center;">
+            <img src="./image/1.png" width="800" />
+        </p>
+    </div>
+    <br/>
+    <br/>
+    <div class="col-md-5">
+        <p style="font-family:微软雅黑;font-size:25px;text-align:center;">
+            My Academic Planning
+        <p/>
+        <p style="font-family:楷体;font-size:20px;text-align:left;">
+            大学时光是我们人生中非常重要的阶段，对于大多数人来说工作以后很难有机会拥有独立的时间去学习。因此我们要做好规划，充分利用好每一天。
+            我对我大学阶段大体的规划是这样的。因为我目前是计算机专业大二在读，大一主要学习了一些基础课，为了将基础打好，同时也是为了能够成功转专业，我将大多数精力投入在了课内的学业上。
+            也取得了比较不错的成绩和排名，如愿以偿转入了计算机专业，大二我希望能够将多一点的时间投入到课外知识的学习以及尝试参加各种竞赛，也可以进行一定程度上的科研训练，积累知识和经验，同时也希望自己可以再掌握一到两种编程语言，提高自己的代码能力。
+            大三希望能够厚积薄发，在学业和竞赛上发力，提高自己的学分绩，争取保研名额。如果没能成功保研，尽快开始考研复习，争取一次上岸。我希望我能尽早找到适合自己的研究领域，为了这个目标我会积极努力的探索和尝试。
+            计算机是我热爱的专业，我会努力在这条道路上走的更远。
+        </p>
+    </div>
+</div>
+</body>
+</html>
